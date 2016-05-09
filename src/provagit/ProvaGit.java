@@ -17,5 +17,11 @@ public class ProvaGit {
     public static void main(String[] args) {
         // TODO code application logic herefghjmmrewhjmhrewhjmkhgfd
     }
+    public static void main(String[] args) {
+        // TODO code application logic herefghjmmrewhjmhrewhjmkhgfd
+    }
+    public static void main(String[] args) {
+        // TODO code application logic herefghjmmrewhjmhrewhjmkhgfd
+    }
     
 }
